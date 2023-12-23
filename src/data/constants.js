@@ -136,7 +136,7 @@ export const Bio = {
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/Quiz_App_Client",
-      webapp: "https://quiz-frontend-zij1.onrender.com/",
+      webapp: "https://quiz-app-client-jet.vercel.app/",
       member:[
         {
           name: "Aravindh",
@@ -172,7 +172,7 @@ export const Bio = {
       tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/todo_client",
-      webapp: "https://todo-client-doe7.onrender.com/",
+      webapp: "https://todo-client-beta.vercel.app/",
       member:[
         {
           name: "Aravindh",
@@ -189,7 +189,7 @@ export const Bio = {
       tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/recipe_client",
-      webapp: "https://recipe-client.onrender.com/",
+      webapp: "https://recipe-client-kappa.vercel.app/",
       member:[
         {
           name: "Aravindh",
