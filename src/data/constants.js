@@ -104,6 +104,7 @@ export const Bio = {
       id: 0,
       img: "https://tse3.mm.bing.net/th?id=OIP.0wokdPRXpoSnlL6PBbq7TgHaHa&pid=Api&P=0&h=180",
       school: "Karpagam College of Engineering, Coimbatore",
+      grade: "6.91 CGPA",
       date: "2015 - 2019",
       desc: "I am a graduate with a Bachelor's degree in Electronics and Communication Engineering from Karpagam College of Engineering, Coimbatore. Over the course of 8 semesters, my academic focus included subjects such as C Programming, Java, Database Management Systems, and Data Structures. Throughout my college journey, I immersed myself in the study of electronics and communication, gaining practical experience in applying theoretical concepts. Hands-on projects and coursework allowed me to develop a solid foundation in key programming languages and database management.",
       degree: "Bachelor of Engineering - BE, Electronics and Communication Engineering",
@@ -112,6 +113,7 @@ export const Bio = {
       id: 1,
       img: "https://alagappa.org/assets/home/images/alagappa-matriculation-karaikudi.jpg",
       school: "Alagappa Matriculation Higher Secondary School, karaikudi",
+      grade: "59.5%",
       date: "2013 - 2015",
       desc: "I completed my high school education in Class 12 at Alagappa Matriculation Higher Secondary School in Karaikudi, where I studied Bio-Maths.",
       degree: "ISC(XII), Bio_Maths",
@@ -120,6 +122,7 @@ export const Bio = {
       id: 2,
       img: "https://alagappa.org/assets/home/images/alagappa-matriculation-karaikudi.jpg",
       school: "Alagappa Matriculation Higher Secondary School, karaikudi ",
+      grade: "88%",
       desc: "I completed my class 10 education at Alagappa Matriculation Higher Secondary School in karaikudi."
     },
   ];
