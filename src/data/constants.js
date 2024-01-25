@@ -135,7 +135,7 @@ export const Bio = {
       description:
         "Built an interactive quiz app with the MERN stack, featuring a user-friendly React interface. Leveraged MongoDB for efficient data storage, ensuring a seamless user experience. Employed Node.js and Express.js for server-side logic and API endpoints.",
       image:
-        "https://drive.google.com/uc?export=download&id=12rkoUUDCQ9YMtvoO1MwkZsZFafnED7Em",
+      "https://github.com/aravindhselvam3/portfolio_project_images/assets/130632860/f8f5ccb2-eecb-4c33-87e9-3bc084e58810",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/Quiz_App_Client",
@@ -154,7 +154,7 @@ export const Bio = {
       description:
         "Developed a student dashboard using the MERN stack for GUVI, offering real-time insights into mock interview and task completion scores, class schedules, and more. Leveraged React.js for dynamic and responsive UI, while implementing best practices for code optimization and scalable database design to enhance overall user experience.",
       image:
-        "https://drive.google.com/uc?export=download&id=1iaSkMXy7x-xQxdZIASeYKwmKuhuwvi5u",
+        "https://github.com/aravindhselvam3/portfolio_project_images/assets/130632860/3f63f2f1-2f08-40e6-bce2-567eace1d02e",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/capstone2_frontend",
@@ -171,7 +171,7 @@ export const Bio = {
       description:
         "Implemented CRUD for seamless task management. Designed a responsive user interface with React.js. Used state management for dynamic updates. Ensured robust reliability through thorough testing and detailed code documentation.",
       image:
-        "https://drive.google.com/uc?export=download&id=1J8OodAZpPMn2FA-OL-MsBGSfFC7z8q2k",
+        "https://github.com/aravindhselvam3/portfolio_project_images/assets/130632860/ef4b8939-148e-4241-b3f4-f2495e06717a",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/todo_client",
@@ -188,11 +188,27 @@ export const Bio = {
       description:
         "Created a Recipe application with the MERN stack, featuring a user-friendly interface for exploring and sharing recipes. Implemented secure authentication, utilized MongoDB for efficient data storage, and managed deployment for scalability and performance optimization, resulting in a successful launch.",
       image:
-        "https://drive.google.com/uc?export=download&id=13iOq1LS0cBnNfq4r-WLYoWbmzQ5rS85u",
+        "https://github.com/aravindhselvam3/portfolio_project_images/assets/130632860/c6443a0a-3988-420b-b330-50946c267926",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/recipe_client",
       webapp: "https://recipe-client-kappa.vercel.app/",
+      member:[
+        {
+          name: "Aravindh",
+          github: "https://github.com/aravindhselvam3",
+        }]
+    },
+    {
+      id: 4,
+      title: "Library Management",
+      description:
+        "Developed a versatile student management system where the interface facilitates easy data modification. Admins have the ability to control student details, while students can effortlessly update their own information.",
+      image: "https://github-production-user-asset-6210df.s3.amazonaws.com/130632860/299672699-c0416597-9c8d-4c37-be4a-0415f31b9122.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240125T125751Z&X-Amz-Expires=300&X-Amz-Signature=0985178f7f1345223e81266aabf46db2f55b1aeb739fc88b26d1cba45b5e0622&X-Amz-SignedHeaders=host&actor_id=130632860&key_id=0&repo_id=748180790",
+      tags: ["React Js"],
+      category: "web app",
+      github: "https://github.com/aravindhselvam3/Library-Management-2",
+      webapp: "https://library-management-2.vercel.app/",
       member:[
         {
           name: "Aravindh",
