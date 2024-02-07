@@ -204,7 +204,7 @@ export const Bio = {
       title: "Library Management",
       description:
         "Developed a versatile student management system where the interface facilitates easy data modification. Admins have the ability to control student details, while students can effortlessly update their own information.",
-      image: "https://github-production-user-asset-6210df.s3.amazonaws.com/130632860/299672699-c0416597-9c8d-4c37-be4a-0415f31b9122.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240125T125751Z&X-Amz-Expires=300&X-Amz-Signature=0985178f7f1345223e81266aabf46db2f55b1aeb739fc88b26d1cba45b5e0622&X-Amz-SignedHeaders=host&actor_id=130632860&key_id=0&repo_id=748180790",
+      image: "https://github-production-user-asset-6210df.s3.amazonaws.com/130632860/302838576-016f988e-0d29-4260-81c4-2b236c1c83c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240207T021456Z&X-Amz-Expires=300&X-Amz-Signature=e744a03250fdfd907b984b56ef42d0526531513d529203883b538b1d2129bd93&X-Amz-SignedHeaders=host&actor_id=130632860&key_id=0&repo_id=748180790",
       tags: ["React Js"],
       category: "web app",
       github: "https://github.com/aravindhselvam3/Library-Management-2",
